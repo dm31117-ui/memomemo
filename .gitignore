@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+node_modules/
+new_figma_data.json
+figma_data.json
+vertex_ai.json
+fetch_figma.js
+fetch_new_figma.js
+parse_figma.js
+parse_figma.py
+desktop-*.png
+mobile-*.png
+.gstack/
+.claude/
